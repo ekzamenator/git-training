@@ -88,3 +88,5 @@ git add .
 git commit -m "Что сделал"
       ↓
 git push
+
+Изменение в ветке feature-notes.
