@@ -75,6 +75,7 @@ git commit   : Staging -> Repository
 git restore  : Repository -> Working Directory
 git push     : Repository -> GitHub
 git pull     : GitHub -> Repository
+
 Типичный цикл работы
 Изменил файлы
       ↓
