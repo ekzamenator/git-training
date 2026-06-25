@@ -90,3 +90,5 @@ git commit -m "Что сделал"
 git push
 
 Изменение в ветке feature-notes.
+Изменение в ветке main.
+Только в feature
