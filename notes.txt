@@ -89,4 +89,4 @@ git commit -m "Что сделал"
       ↓
 git push
 
-Изменение в ветке feature-notes.
+git status показывает текущее состояние репозитория.
